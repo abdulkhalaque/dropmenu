@@ -44,8 +44,15 @@ ul li:hover{
 }
 .menu ul ul li{
 float: none;
-width: 100px;
+width: 150px;
+}
+.menu ul ul ul li{
+float: none;
+width: 190px;
+}
 
+.menu ul ul li:hover{
+border-left: 3px solid rgb(166, 192, 95);
 }
 .menu ul ul ul{ 
  
